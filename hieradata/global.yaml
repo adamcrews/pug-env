@@ -1,4 +1,5 @@
 ---
 classes:
   - pe_mcollective
+  - ntp
 
